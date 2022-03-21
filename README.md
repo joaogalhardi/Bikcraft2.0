@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## Projeto desenvolvido pelo curso da Origamid.
+## Project developed at Origamid Course.
 
 </div>
 
@@ -17,15 +17,15 @@
 <hr />
 
 ## Deploy:
-Clique [aqui](https://joaogalhardi.github.io/Bikcraft2.0/) para testar a aplicação.
+Click [here](https://joaogalhardi.github.io/Bikcraft2.0/) for try the aplication.
 
-## Tecnologias:
+## technologies:
 
 - 💹**HTML**  
 - 💹 **CSS** 
 - 💹 **JAVASCRIPT**
 
 
-## Licença:
+## License:
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
