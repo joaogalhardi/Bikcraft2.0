@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="./video/Animação.gif" alt="bikcraft">
+  <img src="./img/gif/Bikcraft2.0.gif" alt="bikcraft">
 </div>
 
 <hr />

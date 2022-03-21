@@ -1,7 +1,7 @@
 .header-bg {
   background-color: var(--cor-12);
 }
-
+ 
 .header {
   display: flex;
   flex-wrap: wrap;
